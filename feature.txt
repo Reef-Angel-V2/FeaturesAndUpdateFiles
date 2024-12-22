@@ -123,3 +123,5 @@ ATOSetup,ReefAngel.AddStandardMenu,Standard Menu
 OverheatSetup,ReefAngel.AddStandardMenu,Standard Menu
 StandardLightSetup,ReefAngel.AddStandardMenu,Standard Menu
 KALKDOSER,ReefAngel.KalkDoser,KalkDoser
+OZONEEXPANSION, ReefAngel.AddOzoneExpansion(), Ozone expansion
+CO2EXPANSION, ReefAngel.AddCo2Expansion(), Co2Expansion
